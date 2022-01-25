@@ -1,0 +1,2 @@
+# rookie
+Python rookie
